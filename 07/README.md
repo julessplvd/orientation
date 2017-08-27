@@ -1,3 +1,5 @@
+# Synchronous File IO Exercise
+
 ## Requirements
 
 Create a JavaScript file to act as a Node.js program named `file-io.js`. This program
