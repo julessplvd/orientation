@@ -1,3 +1,5 @@
+# Third Party Modules Exercise
+
 ## Requirements
 
 For this exercise we are going to use a popular Node.js module: [chalk][chalk]
