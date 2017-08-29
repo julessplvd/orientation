@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": 0,
+      "firstName": "Fred",
+      "lastName": "Smith",
+      "jobTitle": "Cashier",
+      "address": "490 Willow St"
+    },
+    {
+      "id": 1,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "jobTitle": "Plumber",
+      "address": "770 Lake Ave"
+    },
+    {
+      "id": 2,
+      "firstName": "Tom",
+      "lastName": "Cat",
+      "jobTitle": "Cook",
+      "address": "3211 Fern St"
+    }
+  ]
+}
