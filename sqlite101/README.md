@@ -28,3 +28,7 @@ A friend of yours owns a small family business and wants to start moving all of 
 ## Bonus Features
 
 1. Instead of using an array in the .js file, create a JSON file of employees to require into the js file. Use this to populate the table.
+
+1. Your friend has decided that they want to add a salary column to the employees table. Make sure to add a salary key value pair to each of the employee objects. Then drop the existing employees table, update the schema to accept a salary column, and repopulate the table.
+
+1. Write a statement that returns all employees of a specified `jobTitle`.

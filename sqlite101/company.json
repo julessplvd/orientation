@@ -5,21 +5,56 @@
       "firstName": "Fred",
       "lastName": "Smith",
       "jobTitle": "Cashier",
-      "address": "490 Willow St"
+      "address": "490 Willow St",
+      "salary": 50000
     },
     {
       "id": 1,
       "firstName": "Jane",
       "lastName": "Doe",
-      "jobTitle": "Plumber",
-      "address": "770 Lake Ave"
+      "jobTitle": "Baker",
+      "address": "770 Lake Ave",
+      "salary": 60000
     },
     {
       "id": 2,
       "firstName": "Tom",
-      "lastName": "Cat",
+      "lastName": "Reese",
       "jobTitle": "Cook",
-      "address": "3211 Fern St"
+      "address": "389 Bacon St",
+      "salary": 70000
+    },
+    {
+      "id": 3,
+      "firstName": "Betty",
+      "lastName": "Jones",
+      "jobTitle": "Florist",
+      "address": "3211 Poppy Lane",
+      "salary": 79000
+    },
+    {
+      "id": 4,
+      "firstName": "Kary",
+      "lastName": "Phillips",
+      "jobTitle": "Baker",
+      "address": "3211 Ocean St",
+      "salary": 79000
+    },
+    {
+      "id": 5,
+      "firstName": "Viv",
+      "lastName": "Reed",
+      "jobTitle": "Doctor",
+      "address": "9788 Health Ln",
+      "salary": 80000
+    },
+    {
+      "id": 7,
+      "firstName": "Debbie",
+      "lastName": "Sue",
+      "jobTitle": "Athlete",
+      "address": "390 Champion Way",
+      "salary": 10000
     }
   ]
 }
