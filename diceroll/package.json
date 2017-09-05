@@ -1,0 +1,12 @@
+{
+  "name": "diceroll",
+  "version": "1.0.0",
+  "description": "## Requirements Create a program that performs a dice roll. You will need a folder `dice-roll` with at least 5 files to accomplish this task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
