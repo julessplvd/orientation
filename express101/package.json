@@ -1,0 +1,17 @@
+{
+  "name": "jules",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "db:reset": "node db/build-db",
+    "start": "nodemon bin/express101",
+    "test": "nodemon --exec \"mocha --recursive\" -R list"
+  },
+  "engines": {
+    "node": "7.3.0"
+  },
+  "dependencies": {
+    "express": "~4.14.1",
+    "sqlite3": "^3.1.9"
+  }
+}
